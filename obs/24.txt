@@ -1,47 +1,39 @@
 ====== 24. ዮኻኒ ቹሩ ዬሱሲ ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?direct&}}
 
 ና ኤርሚያ ዘካሪያስ ኮ ኤልሳቤቲ ሺልሉ ና ቴ ቡይ ና ኦኩ ኬ ጃላዋይ ና ቫኩ ባዕ ኮ ኮሩ ና ቫኩ ረቻ ና ማሉኩ ሳዕ መደርሪኝ
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?direct&}}
 
 ና ዙግቲ መሪ ኾዿ ና ኪሺጊ ሎግቲ ዮግ ዮኻኒዬ ባዕ ኮ ኮሩ ና ዮኻኒሲ ማዹ ዙዎ ና ሴያ ኬ “ኮሞራ ቱሞኝ ባሪ ተዋ ጃዕ ና ቶኆ ገረሲን”።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?direct&}}
 
 ና ኹልላ ዙዎ ሺገያ ሎጋ ዮገያ ዮጎ ዮኻኒ ኃኃ ዙዎ ኢጊ መሪ ኻኅ ቶኆ ገረሲና ነይ ና ዮኻኒሲ ቹሩ ዮግ ና ኮ ዙዋ ቶሞኝ ቢቢዮ ኢጊ መሪ ኾዻ ና ኩቹርተዮ ኃኒዬ ዮግ ገረሲን ኃኒ ኮቶኆቶ
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?direct&}}
 
 ና ዮኻኒሲ ሰሰ ዙዋ ቶሞኝ ቢቢዮ ኬ “ኢጌ ኃይገያ ኮ ኮና ገርሳ ኃ ቶኆ ገረሲን ና ሜሲ ሎግቲ ቻልሎ ኖኅ ኪያ ካሪ ቻልሊ ኃኢጊሶኖ ኻሌ ኬዻና ና ኮኇንኖ ና ካጀ ጎ” ና ዮኻኒሲ ሰሰ ጃላዋኛ ኬ “ኻሌ ኪቶኒ ኺሪ ሜሶኝ ጎሮ ሳቦ ኃሎግቱኑ ኃመያ ቩግኘሰ”
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?direct&}}
 
 ና ዙዋ አይኹዻይ ጌና ጊኒ ኹልሊ ኖኅ አ ዬሱሲዬ ና ዮኻኒሲ ያገሰ ና ሰሰ ኬ “አኜ ኺራ ኩኹዾኚ ኃካኒው ኃኒዬ ኺራ ዻዻላ ኖኅ ኩንኖ ኖኅ ኮ አኜ ቫ ሴ ኮግ ቻኻ ገኘ ሞሳኛ ኃኮዋኖ ኖኅ አ ዻዻሊ፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?direct&}}
 
 ና ኡኃ ኮ ዉሩ ዬሱሲ አይዎ ና ኩቹር ዮኻኒሲ ና ኹላ ዮኻኒሲ ኦሮ ኃኃ ኖ ሴያ ኬ “ጋ ጎኞየ መደራ ቱሞኝ ኻሌ ኦኆና ገረሲና ኃባ ዻካካን”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?direct&}}
 
 ና ዮኻኒ ሰሰ ዬሱሲ ኬ “አኜ ቫ ሴ ኩቹርቺኝ ኢኜ ኃጋነዮ ኢኜ ኺን ቮይ ቹሮኝ አኜ” ና ዬሲሶ ሴያ ኬ “ኃሎግታ ኃ አ ኮ ዲብ ኻኅ ሴ ኬሜደ ንስ ኢኜ ኺን ቮይ ቹሮኝ አኜ” ና ኖኅ ኮ ኹልሊ ዬሱሲ ቤ ገርሲንኒ ኃኒ ኬሜሶዬ ዮኻኒሲ ቹሮ ዬሱሲ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?direct&}}
 
 ና ዬሱሲ ቹርነነዬ ና ባንሳናዬ ኩለያ ቱሞኝ ኆዋ ቱሞ ኬ ዎሌይ ና ተያ ቫ ነነ ና ሴያ “ኢኜ አኒ ኤርሚያ ና ኬዬሊኝ ኻኅ ና አኜ ኩቹሙኒ ጎሬ ቫ ኑኑ”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?direct&}}
 
 ና ቱሙ ሰሰ ዮኻኒሲ ኬ “ኩለያ ቱሞኝ ኆዋና ና ሊኖኖ ቫ ኃኺራ ቹሪኃ ና ኖኅ ኃኺራ አ ኤርሚያ ቱሞኝ ና ኮሞሩ አ ዾነይ ሶኅ ኃይኑ ኻሌ አ ዬሱሲ።
 
-//የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 3፤ ማርቆስ 1፡9-11፤ ሉቃስ 3፡1-23።//
-
-
+//**ሎጋ**// //**ቱሞኝ** ////**:**// -//ከማቴዎስ 3፤ ማርቆስ 1፡9-11፤ ሉቃስ 3፡1-23።//
