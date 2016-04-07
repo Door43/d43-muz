@@ -1,60 +1,39 @@
 ====== 33. ሎጋ ኺራ ኢዎ ቢዮ ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
-
-ና ዬሱሲ ዮኩ ኃሎግታ ኺሪ ኮኺነዮ ኮን ሴ ኮግ ጉዮ ዱጋ ና ዱጋ ዋ ኮቻ ዱጋ ጌና ኆዻ ጎሮ ና ሾዋ ኾዻ ና ቫታ ቮይ።
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
 ና ዬሱሲ ዮኩ ኃሎግታ ኺሪ ኮኺነዮ ኮን ሴ ኮግ ጉዮ ዱጋ ና ዱጋ ዋ ኮቻ ዱጋ ጌና ኆዻ ጎሮ ና ሾዋ ኾዻ ና ቫታ ቮይ።
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
+ና ዬሱሲ ዮኩ ኃሎግታ ኺሪ ኮኺነዮ ኮን ሴ ኮግ ጉዮ ዱጋ ና ዱጋ ዋ ኮቻ ዱጋ ጌና ኆዻ ጎሮ ና ሾዋ ኾዻ ና ቫታ ቮይ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
-
-
-ና ዱጉ ጌና ኆዻ ቮይ ኮ ሳሪ ቶዬ ና ኃሊዋ ሺላ ና ኃኒዬ ኖኅ ማጋ ቢሮኖው ና ጎሪ ሲለ ጋራ ና ኬቫ ማገሰነ ቢሪኖው ባዬ ኮ ካዐረ ኃኒ ኃኢጊሰነዮ።
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
 ና ዱጉ ጌና ኆዻ ቮይ ኮ ሳሪ ቶዬ ና ኃሊዋ ሺላ ና ኃኒዬ ኖኅ ማጋ ቢሮኖው ና ጎሪ ሲለ ጋራ ና ኬቫ ማገሰነ ቢሪኖው ባዬ ኮ ካዐረ ኃኒ ኃኢጊሰነዮ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
+ና ዱጉ ጌና ኆዻ ቮይ ኮ ሳሪ ቶዬ ና ኃሊዋ ሺላ ና ኃኒዬ ኖኅ ማጋ ቢሮኖው ና ጎሪ ሲለ ጋራ ና ኬቫ ማገሰነ ቢሪኖው ባዬ ኮ ካዐረ ኃኒ ኃኢጊሰነዮ።
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
 ና ዱጉ ጌና ኆዻ ቫ ቡ ባ ቻልላ ና ኃሊዋ ኢጊዾና ኮና ኢጌው ካረ 30 ኮና ኢጌው 60 ና ኮና ኢጌው ካረ 100 ኺራ ሎማ ኛዊ አኝ ኪሺግ።
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
 ና ኃሎግታ ኖኅ ኬዻ ሉኩራ ዬሱሲ ሳቢ ቮይ ና ዬሱሲ ዮገሰ ሸዕ ና ሰሰኃኃ “ዱጉ አ ሎጋ ቱሞኝ ኢገያ ዻገ ባ ጎሮዬ አ ኺራ ሺጋ ቱሞኝ ና ኃኒዬ ኖኅ ሸዕ ኃኧሰቶ ና ሴይታኒ ኩን ና ኢዋና ቮይ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
 ኢንና ኆና ቫ ኮ ታዋርሬ አ ኺራ ሺጎ ሎጋ ቱሞኝ ና ኖኅ ኺኖ ሻው ኹኅ ና ኃኒዬ ኹሊ ሾላይ ኩንንኃ ኖኅ ዾዕ ሎጎ ኹኅ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
 ኢና ኆና ቫ ኮ ቢሮኖ አ ኺራ ሺጎ ሎጋ ቱሞኝ ቺር ኃኒዬ ኖኅ ኢሺኖ ቮይቲኒ ና ኺን ደለለሞዋ ኃባ ኮ ዬላ ኃባ ና ሎጋ ቱሞኝ ኡሉቦኖ ሎጋ ኃባ ቮይ ዻካካን ካሪ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
 ኃኒዬ ኃይገያ ኆነ ባ ቡ ቻሊሴ ኖኅ አ ኺራ ሺጎ ሎጋ ቱሞኝ ና የባ ና ኖኅ ኻሌ ኢጊሲኖ ካረ።
 
-//**የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 13፡1-8፣ 18-23፤ ማርቆስ 4፡1-8፣ 13-20፤ ሉቃስ 8፡4-15።**//
-
-
+//**ሎጋ**// //**ቱሞኝ** ////**:**// -//** ከማቴዎስ 13፡1-8፣ 18-23፤ ማርቆስ 4፡1-8፣ 13-20፤ ሉቃስ 8፡4-15።** //
