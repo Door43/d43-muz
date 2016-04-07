@@ -1,60 +1,47 @@
 ====== 42. ዬሱሲ ኦኩ ቱሙ ቱንኖ ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?direct&}}
 
 ኡኁዋ ቤ ባንሻኛ ዬሱሲ ዮግ ሉኩራኒ ገኘ ራማን ኣዎ ኦራ ቤ ኧልቻ ሳቦ ና ኹልሊ ኃኒ ዎኧጎሮዬ ዮግ ቶና ኣልሊ ና ሴዻ ኬ ሎግኛ ቤ ኡሩኅኘሰነያ ዬሱሲ ቫ ኖኅ ኣንቻ ኮሞራ ቱሙኝ ኦጀሰ ኃሎግታ ኺኒ ኹኡ ኃኔዬ ዮግ ዙዋ ኃኻ ሴዻ ኬ ኖኅ ዬሱሲ ኃኒ ኢሺ ኻኅ ና ኣኖኅ ኻኅ ኃኔዬ ሉኩራ ዬሱሲ ራማን ዮግ ኃሎግታ ኃየበዮ ቮይ ኣና ሎጎ፡፡
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?direct&}}
 
 ና ኖኅ ዬሱሲ ኣሳ ኃዙግቱኑ ና ዺካሪ ኃ ኃኹሉኑ ዺየካሪዬ ዮግ ቮይ ጋ ኬ ኃይና ኣ ዬሱሲ ኢማገዮ። ኃኒዬ ዬሱሲ ጊኑ ዮግ ኣሌው ኦሬ ዋ ና ዮግ ሴዻ ኬ ካሌው ሎጊኛ ቦርቶ ሜሶ ዬሱሲ ና ኮሮ ና ኪሺጎ።ና ኖኅ ያገሰ ዮግ ና ሰያ ኬ ኢጌ ኧገዻ ሎጋ ቤ ካሌው ኮ ኯሞኒያ ኪማጋ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?direct&}}
 
 ና ዬሱሲ ሰያ ኬ ኤርሚያ ቱሞኝ ኻሊ ኖኅ ኆርሾላይኞጋ ና ኡኆ ሲዝዚኔ ባንሳና ረሰዯ ቫዕ ኖኅ ኣንቻ ኮሞራ ቱሞኝ።ና ኧገዻ ኃሎግቱኑ ኣና ቤ ሳቦ ኮዮግታ። ና ቤ ኃኹሉኑ ቶይ ባ ኣኮሮይ ና ኃዙግቱኑ ሎጋ ኧሰዸያ ኃኒ ኃⶍተው።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?direct&}}
 
 ና ዙግቲ ኮ ራማን ቱኂይ ካሪ ና ኢጎምነሰ ቫ ዋ ሜሰሰነያ ና ቫተ ቮይነይ። ና ዮግ ታጋ ቫ ኣንቻ ዬሱሲ ።ኃኒዬ ዮግ ኹላ ጋየያ ኬ ዬሱሲ ኃ ኖኅ ኡሉቦ ዮግ ካረ ቮይ ና ጋሩ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?direct&}}
 
 ኃኒዬ ኃዙግቱኑ ኮ ራማንኔ ዮግ ታጋና ሴዻ ኬ ታዋ ኣ ዬሱሲ ኻኅ ኀዕ።ኣና ዮግ ሎጋ ቱሞኝ ና ኺኒሲ ቨልነኃ ኣ ኖኅ ኻኅ። ና ዮግ ኢግተ ዮሪሳሌሞ ና ኣሳ ሉኩራ ገይ ና ሴዻ ካ ኃይና ኣ ዬሱሲ ኻኅኆ ዋ ካርቶ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?direct&}}
 
 ና ኃኹሉኑ ቶይ ኹሊ ኃኒ ኧሰሰራነ ሎጎ ኃ ኖኅ ዬሱሲ ቮና ከርገና ነይ ኹኅ። ና ዬሱሲ ሰሰ ዮግ ኬ ቻሊን ኣ ኬቴይ ቫ ኑይ። ና ዮግ ሉኩራ ገኘ ኦጂይ ኬ ኩሌይ ና ኖኅ ዬሱሲ ሰያ ና ኧኀርሳኞ ከኅ? ና ኢጌ ኧለኸናኞ ኩሌይ ኹኅ ጋ ጎኞ ሞሎ ሰኔ ኮ ጃሬ። ኩሌይ ዻ ቤ ሎ ረሪ ኃዳሚታ ናይኔ ኖኅ ኩሌ ረሪ ኒኀ ሶ። ና ዮግ ሴዸሰ ኬ ኹሊ ኩሌይ ኃኔውዬ ዎኝ ኡርጉሲ ና ቫጋ። ና ኖኅ ኢዋ ኡርጉሲያ ጊና ካጃ ና ቫኩ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?direct&}}
 
 ና ኖኅ ዬሱሲ ሰያ ኬ ኣኜ ኹላ ቤ ኮዺ ሎጋ ቱሞኝ ኮዺ ኩለው ቺር። ና ዮግ ኃኹሉኑ ዙዋ ጊና ሳቢ ኦዸ ና ኧገዻ ሎጋ ቱሞኝ ናሴዻ ኬ ኤርሚያ ቱሞኝ ቤ ሴኖ ኬ ኻሊ ኮኆሪ ሾላይኞጋ ና ከረሰው ና ኡኆ ሲዝዚኔ ካባንሳን ረሰዮ።ና ኃሎግታ ኣና ቤ ኮዋና በርጉኛ ቤ ኮ ሳባ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?direct&}}
 
 ኃኒዬ ዋርካቲያ ቤ ሴ ኮቶኅነ ዙው ገሪሲኞጋ ኬ ኣይካጋራየ ና ሉኩራ ገኘ ኮዮጎቶ ኣና ቤ ኮዋና። ና ዮግ ኮዋናይ ዮሪሳሌሞ ና ኬሜሲ ቲዕ ና ካይተ ባ ዻካካን ና ዮግ ኬ ሚሲኪሪኛ ቫ ዙዎኝ ቲዕዕ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?direct&}}
 
 ኃኔ ኡኅኆ ዙዎ ራማን ውረው ሉኩራ ገኘ ኣር ዬሱሲ ደግደግ። ኃኒዬ ዙግቲ ኮ ዙዎ ራማን ኮ ቶሞን ካሊ ዾነይ ኣሪ ዬሱሲ ና ሴዻ ኬ ዋ ኣ ኖኅ ኻኅኀ ና ሉኩራ ገኘ ታጋ ኬ ኖኅ ኻኅ ና ዮግ ቲሚርቲ ሎጋ ቱሞኝ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?direct&}}
 
 ና ኖኅ ዬሱሲ ዮገሰ ሉኩራ ኬ ኢጌ ኣና ቤ ካውኆ ይሮዋ ቱሞኝ ከኃ ሎጊኛ ኃባዕ ሞግቾ ሎጊኛ ዻካካን ይሮዋ ኩኖ ቱሙ ቱኖ ና ኣዊ ና ቹርተ ዙዋ ጋኙ ቫ ሳራ ቱሙ ሹነይ ኮ ቱሙ ኩሌይ ኮ ቱሙኾይነ ኮ ቮይ ኻሊ ኢጎመሰነዬ ና ኧገያነይ ና ታማረ ና ቩገሰነ ና ኸይ ኬ ሉኩሪ ጉዬ። ኬ ኃቫ ኣኜ ከል ኮ ኢጌ ካሬ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?direct&}}
 
 ና ኹላ ዬሱሲ ባንሳና ረሰዮ ዉረዮ ኡኆ ዙዎ ራማን “ዩሩሳለⶁ ኃቮንሶ ቲዕ ኮ ቮይ ኻሌ ኩለያ ቱሞኝ ኮን ቫ ኑይ ና ኢጌ ሎሞ ዪራ ቱሞኝኔ” ና ኃቫ ዉረዮ ዬሱሲ ኦኩ ቱⶁ ና ዋኃይ ኡሉቦ ዮግ ካረ ⶅይ ።
 
-//**የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 28፡16-20፤ ማርቆስ 16፡12-20፤ ሉቃስ 24፡13-53፤ ዮሐንስ 20፡19-23፤ የሐዋርያት ሥራ 1፡1-11።**//
-
-
+//**ሎጋ**// //**ቱሞኝ** ////**:**// -//** ከማቴዎስ 28፡16-20፤ ማርቆስ 16፡12-20፤ ሉቃስ 24፡13-53፤ ዮሐንስ 20፡19-23፤ የሐዋርያት ሥራ 1፡1-11።** //
