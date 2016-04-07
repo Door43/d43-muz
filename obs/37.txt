@@ -1,61 +1,47 @@
-====== 37. ዬሱሲ ዾኃ አላዛር ረሰዮ======
+====== 37. ዬሱሲ ዾኃ አላዛር ረሰዮ ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?direct&}}
 
 ኡኆ ዾነይ ዬሱሲ ኮዮግተሰ ሳዕኒ ኬኬ አላዛር ኢላ ና አ ረሲ ና ቤ ኆኒገያ አላዛሪ ኬ ማርታ ኮ ማሪያም ዮግ አ ሉኩሪ ዬሱሲ ና ዬሱሲ ኹላ ሺጎ ኃኃ ኖኅ ሴያ ኬ “ኃኢላጋይታ ኃ ኖኅ አ ኢላጋይቲ ኢኬ ዾኃ ቱሞኝ ኹኅ ኢንኒ ረሰኝ ኃንኖ” ና ኖኅ ዬሱሲ ተው ቫ ኢሻ ኡኆ ራማን ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?direct&}}
 
 ና ኹላ ኡኆ ራማ አኀያዬ ዬሱሲ ሰሰ ሉኩራ ገኘ ኬ “ካዎ ዪኹዻይዬ” ና ሉኩራ ዬሱሲ ያተሰ ዬሱሲ ና ሴዸሰ ኬ “ና ኡኆ መቺጊ ዉረዮና አና ዙዋ ኃቩኑ ኺኒኘያ ኮዻ ኃአንኖ ና ኖኅ ዬሱሲ ሴያ ሉኩሪያ ና ኬ አላዛር ታዕ ባሬ ቱኁና ኮጎይ ና ኪባሴው ኡኄ”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?direct&}}
 
 ና ሉኩራ ዬሱሲ ሴዼሰ ዬሱሲ ኬ “ኺራ ቲሚርቲዪ ኹልልሊ ኖኅ አላዛር ባሬ ኡኁሴ ኖኅ ኻሌ ባንሳና ኹኅኒሶ” ና ኃኹሉኑ ዬሱሲ ያገሰ ና ሰሰ ኬ “ኃቫ ኹልሊ ኃሎግታ ኣሜሲነዬ ኃቩኑ ቶዬ ኃኧልቾዬ አኜ ኩቹሙኒ ዋኅ ኬቫ ኻሌ የባኙ አኜዬ”
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?direct&}}
 
 ኹላ ዬሱሲ ቮንሶ ካታማ ቤ ኪሪቾኛ አላዛርሬ ኖኅ ኃኹሉኑ ኡኃ ረሻ አላዛሪ ቴ ዉሽ ና ማርታ ቮና ካርተ ኮ ዬሱሲ ና ሰሰ ኬ “ኮሞሮዬ ኹልሊ መያ ቤ ኢኜ ተይ ኃቫ አና ጎዶና ናኑ አላዛር ኃረሶ ና ኃኔ አኜ ካጋይዮ ቫ ኢኜ ሎጋ ኦሊ ቫ ቱሞኝ ዻካካ ኻሌ አጂኚ”
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?direct&}}
 
 ና ዬሱሲ ያገሰ ና ሰሰ ኃኃ “አኜ ካኒ ባሴ ኮ ባናሴ ና ዙዋ የባኘያ አኜ ዻካካን ኮ ኹልሊ ኬሪዪየ ዮግ ኻሌ ኸይ ኬ ባሲ ቾዋነኅ ዮግ ዙዋ የባኘያ አኜ ዻካካን ዮግ ኃረሰዮ።ኃሎግታ የቢ ቺር? ና ማርታ ሴያ ኬ “ኢዕኝ ኮሞሮዮ ኢኜ ቫ አነይ ኤርሚያ ቱሞኝ ከየበዮ” ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?direct&}}
 
 ና ዉረዮ ማሪያም አይዎ ና ቶዻይ ኮማባዕ ቫ ዬሱሲ ጃሬ ና ሴያ ኬ “ኮሞሮዬ ኢኜ ኹልሊ ቤ ተይ ኃቫ ጎዶና ናኑ አና ቤ ኃረሶ” ና ኖኅ ዬሱሲ ጊንኑ ና ሰሰ ኬ አላዛር ባሬ ኩሮ ኦሪ?ና ሴዸሰ ኬ ኢ ሎግ ቶዬ አይዎ ናጎኛ ና ዬሱሲ ቱሩ ዋኅ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?direct&}}
 
 ቤ ኃሎግታ ኩረ ኃ አ ቮጎይ ና ኹላ ዬሱሲ ቮንሶ ቫ ሎጎኝ ጃዬ ሰሰ ኬ “ዾኅና በ ቮይ”ና ኖኅ ማርታ ሰሰ ዬሱሲ ኬ “ኡኃ ባሬ ኩርቻ ኃመያ አ ዉሽሶ መያ ባሬ ሙጆዮ ቮይ”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?direct&}}
 
 ና ዬሱሲ ሰሰ ኬ “አና ቤ ኮዮጎይኆ ኃንኖ ኹልሊ የባኞ አኜ ኻሌ ኦሮ ዪራ ቱሞኝ?” ና ዮግ ያጋ በ ረና።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?direct&}}
 
 ና ኃቫ ዉረዮ ዬሱሲ ዾኁ ካረ ቱሞ ና ሴያ ኬ “ዳዳዬ ኬቫ ሺጋኝኔ ኯⶍኂኝ ጎሬ አኜ ካጋይዯ ቫ ኢኜ ቲዕ ቲዕ ሺግቻኚ አኜ ና ኃመያ ኮዮጊ ኃሎግታ ና ኃዙግታ ሺለ ኃቫኃ ዻካካን ካታጋ ኬ ቫ ቤ ኢቶንቾኞኚ ኢኞይ” ና ዬሱሲ ኃቫ ዉረዮ ሴያ ኬ “አላዛር ቮና ቮይ”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?direct&}}
 
 ና አላዛር ቮና ና ዬሱሲ ሴያ ኬ “ኦጎየ ና ኮጎ” ና ኃቫ ዉረዮ ዙዋ አይኹዻይ ኢጊ መሪ አሪ ኃሎግታ ና የበ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?direct&}}
 
 ና ኃኒዬ ዮግ ዙዋ አይኹዻይ ቢቢዮ ቾሎሶ ኃሎግታ ና ዮግ ሙግተ ቮይ ዾነይ ና ኧሰዸ ጎሪ አና ኻሌ ኯቶንነ አላዛር ኮ ዬሱሲ።
 
-//**የመጽሐፍ ቅዱስ ታሪክ፡- ከዮሐንስ 11፡1-46።**//
-
-
+//**ሎጋ**// //**ቱሞኝ** ////**:**// -//** ከዮሐንስ 11፡1-46።** //
