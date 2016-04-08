@@ -1,49 +1,43 @@
-====== 23. ኦይኛ ቤ ኢሪቺኛና ዬሱሲ======
+====== 23. ኦይኛ ቤ ኢሪቺኛና ዬሱሲ ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?direct&}}
 
 ቤ ማሪያም አ ኆኒቲ ኺሪ ኾሊ ኬልሊ ኬ ዮሴብ ና ኹላ ዮሴብ ሺግቻ ቫ ብሪ ሴ ኆኒያ ነነ ማሪያም ከኆ ቴዋ ቡይ ና ጋዮ ቫ ኃኤርሚታ ሎም ኃ ኤርሚያ ነነ ኃአንቻው ና ታማሩ ቮ አና ካይነ ማሪያም ሊያ ና ተኸኑ ቮይ ኮዾ ላዕዕ ኹኅ ና ኖኅ ሉሲያ ቱሞኝ አይዎ ቫ ዮሴብ ና ዮገሰ ሎገ ኮናሴዮ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
 ና ሉሲያ ቱሞኝ አይዎ ና ሰሰ ዮሴብ ኬ “ቫሴ ጋመ ኆኒያ ኑኑ ማሪያም ኃኧኀርሲ ኖኅ ኃኤርሚታ ሎም ከኆዬ አጀ ኩለያ ቱሞኝ ና ኢሪዶኖ ኤርሚቲ ማጊ ና ሳራ ኤልሊ ኬ ዬሱሲ( ቤ አቫ ኬኬ ቱሙ ኢባይሲቶ)
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
 
 ና ዮሴብ ጋሙ ማሪያም ና ኦገ ኦሮ ና ኖኅ ቤ ቲዕ ኮ ኢሪደ ካሪ ኃኒ ኩቱኂይቶ።
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
 
 ና ቮሬያ ታይኛ ማሪያም ኢርዴኝ ተቻ ጃ ቫ ኢሪዴኝ ኖኅ ማኂሲያ ሮሚ ሰሰ ዙዎ ና ካዎ ኦረያ ቤ ገይ ና ኮዾ ሳራ ና ዮግ ዮሴብ ኮማሪያም አዎ ቹግ ቤቴሎሞ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
 
 ና ኹላ ቮንንሰያ ቤቴሌሞ ኖኅ ቮይ ኡኁኝ ጋሩ ና አዎ ቱዋ ቢዮኝ ና ቱኂ ኃቩኑ ና ማሪያም ባሮ ኢሪቱ ና ኬቫ ቮይ ቫገሰነ ኤርሚ ኒኀዬ ዮግ ቫግተሰ ኤርሚ ጎኁላ ቫቺኛ ቢዮይ ና ቶነሰ ሳሪ ኬ ዬሱሲ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
 
 ና ቤ ሎም ዙግቲ ኢዎየ መደርኒ ሞገዮ ና ኹልሊ ኃኒ ኢዎነኃ ሉሲያ ቱሞኝ ኦኩ ቫነይ ና ሰሰ ኬ”ኃኧኀርሶ አኜ ኬ ኮዮጎኅ ሳዕኒ ቡዕ ቻልሊ ኤርሚያ ኩኹዾ ዋ ኢሪቻ ቤቴሌሞ።”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
 
 “አዎ ና ጎኞየ አ ኤርሚታ ኡኁ ጎኁላ ቢዮኝ ኩሉብ ጎኁላ ቢዮኝኔ” ና ሉሳ ቱሞኝ ዺዸ ና ዾኆ ቱሙ ና ሴዻ “ሳራ ቱሞኝ አኝ ኮዾኅነ ቻሊኝ አኝ ከተይ ባይኃቫ ቫ ኤሮዋ ዙዎኝ ኮ ቱሙ ቱንኖ”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
 
 ና ዙዋ ኦዎነነያ አይው ና ቫ ዋ ኮዮገሰና ና ኹልሊ ኸይ ኃቩኖዬ አሪ ዳሚያ ዋ ዮጎ ሉሲያ ቱሞኝ ሸዕሸዕ ና ዮግ ቹሙኑ ዋኅ ናኮ ማሪያም ኮነ ቹሙንኑ ዋኅ ና ዮ ዙዋ ኢዎነነያ ዾኆ ቱሙ ኢገያ ቡዕ ኺኒሲ ኾላ ና ሚርተ ዉረዮ ኢዎይ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
 
 ና ተልላ ቮይቲኒ ና ዙግቲ ጉርጉሪ ጌና አሪ ሙኙኚ ኮና ቱⶁ ና ታግ ኬ ኃሙኙኝና ዾለነ ቫ ባሪ ኮሞራ አይኹዻይ ኢሪቻ ዮግ ኮቦ ሙኚኛ ና አዎ ና አሳ ዙዋ ዬሱሲ ባ ኬ ቤቴሌኸም።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
 
 ና ኃዙግታ ጉርጉርኃ ኹላ ኦረያ ዬሱሲ ኮ ጆነ ኃኃ ዮግ ቶናይ ኮማ ባዕ ና አዸ አኻ ጌና ኖኅ ና ሚርተ ወረዮ ኦራ ነይ።
 
-//የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 1፤ ሉቃስ 2።//
-
-
+**//ሎጋ ቱሞኝ: //**- // ከማቴዎስ 1፤ ሉቃስ 2።//
